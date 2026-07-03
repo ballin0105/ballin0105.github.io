@@ -2,14 +2,14 @@
 title: "Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing"
 collection: publications
 category: conferences
-permalink: /publication/2026-your-paper
-excerpt: "One-sentence summary of the paper."
-date: 2026-01-01
-venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025"
+permalink: /publication/2025-unbiased-video-scene-graph-generation
+excerpt: "VISA is a visual-semantic dual-debiasing framework for unbiased video scene graph generation."
+date: 2025-06-01
+venue: "CVPR 2025"
 paperurl: "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf"
-citation: "Yanjun Li, Zhaoyang Li, Honghui Chen, Lizhi Xu."
+citation: "Yanjun Li, Zhaoyang Li, Honghui Chen, and Lizhi Xu. Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 19047-19056."
 ---
 
-Brief description of the paper.
+VISA addresses visual and semantic biases in video scene graph generation through memory-enhanced temporal integration and hierarchical semantic extraction.
 
-Links: [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf) 
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf)
