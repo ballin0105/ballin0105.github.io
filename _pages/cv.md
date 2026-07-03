@@ -43,9 +43,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please see the [Publications](/publications/) page for details.
   
 Talks
 ======
@@ -59,6 +57,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Service 
 ======
 * Currently signed in to 43 different slack teams
